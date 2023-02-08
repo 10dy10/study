@@ -1,14 +1,2 @@
 @charset "utf-8";
 
-
-html, body, div, span, object, iframe,
-article, aside, canvas, details, figcaption, figure,
-footer, header, hgroup, menu, nav, section, main, summary,
-h1, h2, h3, h4, h5, h6, p, blockquote, pre,
-form, fieldset, legend, input, label, button, textarea, select, textarea, input,
-table, caption, tbody, tfoot, thead, tr, th, td,
-b, i, dl, dt, dd, ol, ul, li,
-abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp, small, strong, sub, sup, var,
-time, mark, audio, video, a {margin:0;padding:0;box-sizing:border-box;}
-
-html {font-size:62.5%;}
